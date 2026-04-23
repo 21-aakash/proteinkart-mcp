@@ -9,8 +9,8 @@ Tools exposed:
 Connects to the FastAPI backend running on port 8000.
 Serves MCP over SSE on port 3000.
 
-Usage:
-  python mcp_server.py
+
+
 """
 
 import os
